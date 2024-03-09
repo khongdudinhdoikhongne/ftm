@@ -2,62 +2,62 @@
   "resources": [
     {
       "name": "entities.ftm.json",
-      "url": "https://data.opensanctions.org/datasets/20240308/wd_persons/entities.ftm.json",
-      "checksum": "fc798dbdc16b2474be2647950d68af9a346038ef",
+      "url": "https://data.opensanctions.org/datasets/20240309/wd_persons/entities.ftm.json",
+      "checksum": "b9748318a5b3a51fd5eb42a12778d47c47b3447d",
       "mime_type": "application/json+ftm",
       "mime_type_label": "FollowTheMoney Entities",
       "title": "FollowTheMoney entities",
-      "size": 19284,
+      "size": 93485,
       "path": "entities.ftm.json"
     },
     {
       "name": "names.txt",
-      "url": "https://data.opensanctions.org/datasets/20240308/wd_persons/names.txt",
-      "checksum": "e1327c2e423be3d7f76b51a550d96020d72866f0",
+      "url": "https://data.opensanctions.org/datasets/20240309/wd_persons/names.txt",
+      "checksum": "4d80f2e7ad8af3f400e26b334be946ce8d1fe547",
       "mime_type": "text/plain",
       "mime_type_label": "Plain text",
       "title": "Target names text file",
-      "size": 6793,
+      "size": 35137,
       "path": "names.txt"
     },
     {
       "name": "senzing.json",
-      "url": "https://data.opensanctions.org/datasets/20240308/wd_persons/senzing.json",
-      "checksum": "7535ce1ac347fc477b8f867025a1acbaa6528268",
+      "url": "https://data.opensanctions.org/datasets/20240309/wd_persons/senzing.json",
+      "checksum": "a257d0d2d61e5a4072a2e91a7b51c1205e3eb2bb",
       "mime_type": "application/json+senzing",
       "mime_type_label": "json+senzing",
       "title": "Senzing entity format",
-      "size": 26235,
+      "size": 126804,
       "path": "senzing.json"
     },
     {
       "name": "statistics.json",
-      "url": "https://data.opensanctions.org/datasets/20240308/wd_persons/statistics.json",
-      "checksum": "64dd23e43bf72760000c36514625440caff8c41f",
+      "url": "https://data.opensanctions.org/datasets/20240309/wd_persons/statistics.json",
+      "checksum": "7ac041e88ca2dee31855f7a85341f4bc4af35a45",
       "mime_type": "application/json",
       "mime_type_label": "JavaScript Object Notation",
       "title": "Dataset statistics",
-      "size": 1047,
+      "size": 938,
       "path": "statistics.json"
     },
     {
       "name": "targets.nested.json",
-      "url": "https://data.opensanctions.org/datasets/20240308/wd_persons/targets.nested.json",
-      "checksum": "a7e4d7e68d86f5928f86187f5e0f25ce91bb4760",
+      "url": "https://data.opensanctions.org/datasets/20240309/wd_persons/targets.nested.json",
+      "checksum": "658cd1a3cb24f53c1deb1f2485825003983bc196",
       "mime_type": "application/json",
       "mime_type_label": "JavaScript Object Notation",
       "title": "Targets as nested JSON",
-      "size": 19241,
+      "size": 97704,
       "path": "targets.nested.json"
     },
     {
       "name": "targets.simple.csv",
-      "url": "https://data.opensanctions.org/datasets/20240308/wd_persons/targets.simple.csv",
-      "checksum": "156148a8e332bbd9625419a6d6cfa3375c380cce",
+      "url": "https://data.opensanctions.org/datasets/20240309/wd_persons/targets.simple.csv",
+      "checksum": "d023e746e2ca9b0167bf9deb261804e14edea228",
       "mime_type": "text/csv",
       "mime_type_label": "Comma-separated table",
       "title": "Targets as simplified CSV",
-      "size": 5647,
+      "size": 5665,
       "path": "targets.simple.csv"
     }
   ]
